@@ -21,20 +21,3 @@
     </td>
   </tr>
 </table>
-## 🔍 Output / Result
-
-Here is the final result or output.
-
-<details>
-<summary>Click to view the code</summary>
-
-```cpp
-// Your hidden C++ code here
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello, World!";
-    return 0;
-}
-</details> ```
