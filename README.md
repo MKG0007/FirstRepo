@@ -1,4 +1,4 @@
-```<table>
+<table>
   <tr>
     <td rowspan="2" width="50%">
       <a href="https://leetcode.com/u/mkgoo7/" target="_blank">
@@ -20,4 +20,21 @@
            width="100%" />
     </td>
   </tr>
-</table>```
+</table>
+## 🔍 Output / Result
+
+Here is the final result or output.
+
+<details>
+<summary>Click to view the code</summary>
+
+```cpp
+// Your hidden C++ code here
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!";
+    return 0;
+}
+</details> ```
