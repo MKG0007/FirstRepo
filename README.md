@@ -6,6 +6,7 @@
              alt="LeetCode Stats Of mkgoo7"
              width="100%" />
       </a>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=mkgoo7&theme=onedark&border=border&animated=true" alt="LeetCode Badges"/>
     </td>
     <td width="20%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=dark&username=MKG0007&show_icons=true&locale=en&layout=compact"
